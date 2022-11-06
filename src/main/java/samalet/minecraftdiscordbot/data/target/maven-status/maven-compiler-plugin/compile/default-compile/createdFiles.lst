@@ -1,0 +1,17 @@
+samalet\minecraftdiscordbot\bot\verify\VerificationManager$1.class
+samalet\minecraftdiscordbot\Plugin.class
+samalet\minecraftdiscordbot\command\RegisterCommand.class
+samalet\minecraftdiscordbot\data\Database$BotUser.class
+samalet\minecraftdiscordbot\bot\event\RoleUpdateEvent.class
+samalet\minecraftdiscordbot\data\Database.class
+samalet\minecraftdiscordbot\command\JoinDiscord.class
+samalet\minecraftdiscordbot\bot\Bot.class
+samalet\minecraftdiscordbot\bot\verify\VerificationManager.class
+samalet\minecraftdiscordbot\bot\event\ReactionAddEvent.class
+samalet\minecraftdiscordbot\events\MinecraftChatEvent.class
+samalet\minecraftdiscordbot\data\Database$1.class
+samalet\minecraftdiscordbot\Variables.class
+samalet\minecraftdiscordbot\bot\event\ChatEvent.class
+samalet\minecraftdiscordbot\bot\verify\VerificationManager$Request.class
+samalet\minecraftdiscordbot\events\PlayerFirstTimeJoinEvent.class
+samalet\minecraftdiscordbot\util\ChatUtil.class

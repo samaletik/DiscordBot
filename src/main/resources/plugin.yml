@@ -1,0 +1,8 @@
+name: MinecraftDiscordBot
+version: '${project.version}'
+main: samalet.minecraftdiscordbot.Plugin
+api-version: 1.16
+authors: [ samalet ]
+
+commands:
+  registerDiscord:
